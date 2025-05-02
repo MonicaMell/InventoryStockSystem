@@ -37,4 +37,5 @@ A desktop application for managing inventory, purchase orders, and stock levels 
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
-   python initialize_db.py
+   python3 initialize_db.py
+   python3 gui.py
