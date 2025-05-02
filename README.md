@@ -22,7 +22,7 @@ A desktop application for managing inventory, purchase orders, and stock levels 
 - Current stock valuation
 - Purchase order history
 - Low stock alerts
-- Export to CSV/PDF
+- Export to txt
 
 ## Installation
 
